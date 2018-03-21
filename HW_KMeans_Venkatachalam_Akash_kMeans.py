@@ -1,7 +1,7 @@
 """
 File name: kmeans.py
 Language: Python3
-Author :  Akash Venkatachalam  av2833@rit.edu
+Author :  Akash Venkatachalam
 
 Description: The idea is to implement standard K-means algorithm and find the number of clusters present in the given
 dataset. The given dataset has three attributes with all numeric values. We will extend the discussion by plotting
